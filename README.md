@@ -6,44 +6,25 @@ We will train a simple chatbot using movie scripts from the Cornell Movie-Dialog
 https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
 > hello?
-
-Bot: hello .
-
+> Bot: hello .
 > where am I?
-
-Bot: you re in a hospital .
-
+> Bot: you re in a hospital .
 > who are you?
-
-Bot: i m a lawyer .
-
+> Bot: i m a lawyer .
 > how are you doing?
-
-Bot: i m fine .
-
+> Bot: i m fine .
 > are you my friend?
-
-Bot: no .
-
+> Bot: no .
 > you're under arrest
-
-Bot: i m trying to help you !
-
+> Bot: i m trying to help you !
 > i'm just kidding
-
-Bot: i m sorry .
-
+> Bot: i m sorry .
 > where are you from?
-
-Bot: san francisco .
-
+> Bot: san francisco .
 > it's time for me to leave
-
-Bot: i know .
-
+> Bot: i know .
 > goodbye
-
-Bot: goodbye .
+> Bot: goodbye .
 
 
 # Tutorial Highlights
